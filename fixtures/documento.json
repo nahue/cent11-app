@@ -1,0 +1,16 @@
+[
+  {
+    "pk":1,
+    "model":"academica.documento",
+    "fields":{
+      "tipo":"DNI"
+    }
+  },
+  {
+    "pk":2,
+    "model":"academica.documento",
+    "fields":{
+      "tipo":"Libreta Civica"
+    }
+  }
+]

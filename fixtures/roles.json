@@ -1,0 +1,30 @@
+[
+  {
+    "pk":1,
+    "model":"academica.rol",
+    "fields":{
+      "nombre":"Alumno"
+    }
+  },
+  {
+    "pk":2,
+    "model":"academica.rol",
+    "fields":{
+      "nombre":"Docente"
+    }
+  },
+  {
+    "pk":3,
+    "model":"academica.rol",
+    "fields":{
+      "nombre":"Personal"
+    }
+  },
+  {
+    "pk":4,
+    "model":"academica.rol",
+    "fields":{
+      "nombre":"Preceptor"
+    }
+  }
+]

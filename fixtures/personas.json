@@ -1,0 +1,2459 @@
+[
+  {
+    "pk":4,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-12-07",
+      "apellido":"VALERO",
+      "documento_numero":"27874160",
+      "nacimiento_ciudad":"Palpala",
+      "nacimiento_fecha":"1980-01-31",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mariana Gabriela Isabel",
+      "codigo":"BAJA2012",
+      "telefono":"155554963",
+      "email":"gabyval@hotmail.com",
+      "domicilio":"Catriel 1143"
+    }
+  },
+  {
+    "pk":5,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-12-07",
+      "apellido":"QUISPE",
+      "documento_numero":"27506549",
+      "nacimiento_ciudad":"Tilcara",
+      "nacimiento_fecha":"2011-08-31",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Laura Ramona",
+      "codigo":"ODONT",
+      "telefono":"15482330",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":6,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-23",
+      "apellido":"BENITEZ",
+      "documento_numero":"24518700",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"9999-07-30",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Alicia Del Carmen",
+      "codigo":"BAJA2012",
+      "telefono":"15475992",
+      "email":"",
+      "domicilio":"Rio Almanza 1163"
+    }
+  },
+  {
+    "pk":7,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-24",
+      "apellido":"MALDONADO",
+      "documento_numero":"26472604",
+      "nacimiento_ciudad":"Moron",
+      "nacimiento_fecha":"1978-01-03",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Silvia de Los Angeles",
+      "codigo":"BAJA2012",
+      "telefono":"15488392",
+      "email":"",
+      "domicilio":"Los Zorzales 1521"
+    }
+  },
+  {
+    "pk":8,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-24",
+      "apellido":"PEREYRA",
+      "documento_numero":"12251727",
+      "nacimiento_ciudad":"Rio Colorado",
+      "nacimiento_fecha":"1958-08-01",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tucuman",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Irma Antonia",
+      "codigo":"BAJA2012",
+      "telefono":"15475161",
+      "email":"yrma-china50@hotmailc.om",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":9,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-21",
+      "apellido":"BUENDIA",
+      "documento_numero":"18842920",
+      "nacimiento_ciudad":"E. Arze",
+      "nacimiento_fecha":"1979-08-04",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Bolivia",
+      "nacimiento_pais":"Bolivia",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Rocha Rossana Soraya",
+      "codigo":"BAJA2012",
+      "telefono":"15511731",
+      "email":"",
+      "domicilio":"24 de Marzo 283"
+    }
+  },
+  {
+    "pk":10,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-18",
+      "apellido":"RUBIO",
+      "documento_numero":"23488697",
+      "nacimiento_ciudad":"San Rafael",
+      "nacimiento_fecha":"1973-10-07",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Mendoza",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Beatriz",
+      "codigo":"BAJA2012",
+      "telefono":"425046",
+      "email":"beamendozal@hotmail.com",
+      "domicilio":"Almirante Storni Tira A Dpto 8"
+    }
+  },
+  {
+    "pk":11,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-18",
+      "apellido":"SANTOS",
+      "documento_numero":"24056308",
+      "nacimiento_ciudad":"Rinconada",
+      "nacimiento_fecha":"1974-10-17",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Eduvijes Candida",
+      "codigo":"ODONT",
+      "telefono":"15481995",
+      "email":"",
+      "domicilio":"Seccion O Macizo 66 Andorra"
+    }
+  },
+  {
+    "pk":12,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-18",
+      "apellido":"ARCE",
+      "documento_numero":"34978674",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1990-01-09",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Julieta",
+      "codigo":"BAJA2012",
+      "telefono":"15613117",
+      "email":"juli-a-245@hotmail.com",
+      "domicilio":"245 Viviendas T 14 B Dpto 9"
+    }
+  },
+  {
+    "pk":13,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-18",
+      "apellido":"VERON",
+      "documento_numero":"25768072",
+      "nacimiento_ciudad":"Ramallo",
+      "nacimiento_fecha":"1977-03-29",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Maria Laura",
+      "codigo":"ODONT",
+      "telefono":"443907 15486740",
+      "email":"laura-v-2010@hotmail.com",
+      "domicilio":"Neuquen 391"
+    }
+  },
+  {
+    "pk":14,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":null,
+      "apellido":"DIEZ",
+      "documento_numero":"14929012",
+      "nacimiento_ciudad":"General Madariaga",
+      "nacimiento_fecha":"1961-11-27",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Diana Delia",
+      "codigo":"ODONT",
+      "telefono":"443692",
+      "email":"ladydiana102004@hotmail.com",
+      "domicilio":"Pastor Lawrence 906"
+    }
+  },
+  {
+    "pk":15,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-17",
+      "apellido":"BORIN",
+      "documento_numero":"13739728",
+      "nacimiento_ciudad":"Banfield",
+      "nacimiento_fecha":"1960-05-26",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Griselda Sonia",
+      "codigo":"BAJA2012",
+      "telefono":"423656 15616856",
+      "email":"soniab2055@hotmail.com",
+      "domicilio":"Magallanes 1830"
+    }
+  },
+  {
+    "pk":16,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-17",
+      "apellido":"GONZALEZ VAINI",
+      "documento_numero":"35356045",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1990-09-14",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Brenda Jorgelina",
+      "codigo":"ODONT",
+      "telefono":"15614657",
+      "email":"",
+      "domicilio":"Bahia Torito 2941"
+    }
+  },
+  {
+    "pk":17,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-17",
+      "apellido":"SALDIVAR DELGADO",
+      "documento_numero":"37839055",
+      "nacimiento_ciudad":"Zupiza",
+      "nacimiento_fecha":"1970-06-01",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Potosi",
+      "nacimiento_pais":"Bolivia",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Segundina",
+      "codigo":"BAJA2012",
+      "telefono":"15602652",
+      "email":"",
+      "domicilio":"Beauvoir 2516"
+    }
+  },
+  {
+    "pk":18,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-16",
+      "apellido":"ZARATE",
+      "documento_numero":"36734019",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-04-12",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Florencia",
+      "codigo":"ODONT",
+      "telefono":"430194 15405466",
+      "email":"flores-zaraate@hotmail.com",
+      "domicilio":"Marcos Zar Sur 253"
+    }
+  },
+  {
+    "pk":19,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-18",
+      "apellido":"PEREZ",
+      "documento_numero":"10756785",
+      "nacimiento_ciudad":"San Juan",
+      "nacimiento_fecha":"1954-09-07",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"San Juan",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mirta Aurora",
+      "codigo":"BAJA2012",
+      "telefono":"",
+      "email":"",
+      "domicilio":"Vuelta de Obligado 2667"
+    }
+  },
+  {
+    "pk":20,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-16",
+      "apellido":"RICALDES",
+      "documento_numero":"36734067",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-04-19",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Yanina Estefani",
+      "codigo":"ODONT",
+      "telefono":"15505704",
+      "email":"yani-92@hotmail.com",
+      "domicilio":"Intendente Olmo 863"
+    }
+  },
+  {
+    "pk":21,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"PELEGRINA",
+      "documento_numero":"30672608",
+      "nacimiento_ciudad":"Mendoza",
+      "nacimiento_fecha":"1984-01-05",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Mendoza",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Ivana  Ruth",
+      "codigo":"BAJA2012",
+      "telefono":"445113 15541624",
+      "email":"ruthpelegrina@hotmail.com",
+      "domicilio":"Neuquen 61"
+    }
+  },
+  {
+    "pk":22,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"PALACIO",
+      "documento_numero":"25889782",
+      "nacimiento_ciudad":"Formosa",
+      "nacimiento_fecha":"1907-07-11",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Formosa",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Roxana Elizabeth",
+      "codigo":"ODONT",
+      "telefono":"15546829",
+      "email":"",
+      "domicilio":"Seccion K Macizo E Lote 40"
+    }
+  },
+  {
+    "pk":23,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"VAZQUEZ",
+      "documento_numero":"27744229",
+      "nacimiento_ciudad":"San Salvador de Jujuy",
+      "nacimiento_fecha":"1980-02-20",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Violeta Fabiola",
+      "codigo":"BAJA2012",
+      "telefono":"15407813",
+      "email":"violeta-8020@hotmail.com",
+      "domicilio":"Islas Del Atlantico Sur 1830"
+    }
+  },
+  {
+    "pk":25,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"MARTINI",
+      "documento_numero":"34335081",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1989-02-27",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Francisco",
+      "codigo":"ODONT",
+      "telefono":"422983",
+      "email":"fran-martin@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":26,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-16",
+      "apellido":"MAFFIOLI",
+      "documento_numero":"29652319",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1982-08-18",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Marcela Andrea",
+      "codigo":"BAJA2012",
+      "telefono":"444494 - 441125",
+      "email":"marce-maff@hotmail.com",
+      "domicilio":"Rubinos Del Rio 113"
+    }
+  },
+  {
+    "pk":27,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"TELLES",
+      "documento_numero":"26236946",
+      "nacimiento_ciudad":"Posta San Martin",
+      "nacimiento_fecha":"1977-11-23",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Formosa",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"N Orma Beatriz",
+      "codigo":"BAJA2012",
+      "telefono":"15522778",
+      "email":"",
+      "domicilio":"Secc D Mzo E Lote 26 Esperanza"
+    }
+  },
+  {
+    "pk":28,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"ZAPATERO",
+      "documento_numero":"25961011",
+      "nacimiento_ciudad":"",
+      "nacimiento_fecha":"1977-02-25",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Ana Alicia",
+      "codigo":"BAJA2012",
+      "telefono":"15405842",
+      "email":"",
+      "domicilio":"Salta 2266"
+    }
+  },
+  {
+    "pk":29,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"TORREZ",
+      "documento_numero":"31810253",
+      "nacimiento_ciudad":"San Salvador de Jujuy",
+      "nacimiento_fecha":"1985-08-18",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Miriam Graciela",
+      "codigo":"ODONT",
+      "telefono":"15409640",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":30,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"RUIDIAZ",
+      "documento_numero":"37908735",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1994-02-09",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Daiana",
+      "codigo":"ODONT",
+      "telefono":"444389",
+      "email":"",
+      "domicilio":"Lapataia 309"
+    }
+  },
+  {
+    "pk":31,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"ANCHOVERRI",
+      "documento_numero":"35885165",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1991-07-24",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mayra Melisa",
+      "codigo":"BAJA2012",
+      "telefono":"15471210",
+      "email":"mayra-melisa@hotmail.com",
+      "domicilio":"Beauvoir 2154"
+    }
+  },
+  {
+    "pk":32,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"NOTTI",
+      "documento_numero":"24204014",
+      "nacimiento_ciudad":"Capital Federa",
+      "nacimiento_fecha":"1974-10-22",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Gladys Noemi",
+      "codigo":"BAJA2012",
+      "telefono":"431995",
+      "email":"nottigla@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":33,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"ARAMAYO",
+      "documento_numero":"30857741",
+      "nacimiento_ciudad":"San Pedro",
+      "nacimiento_fecha":"1984-06-30",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Vanesa Pamela",
+      "codigo":"BAJA2012",
+      "telefono":"15408301",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":34,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"OJEDA",
+      "documento_numero":"6699393",
+      "nacimiento_ciudad":"Santa Fe",
+      "nacimiento_fecha":"1951-10-20",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Santa Fe",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Martiniana",
+      "codigo":"BAJA2012",
+      "telefono":"435797",
+      "email":"",
+      "domicilio":"Avutarda 68"
+    }
+  },
+  {
+    "pk":35,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"MENESES",
+      "documento_numero":"28954588",
+      "nacimiento_ciudad":"Buenos Aires",
+      "nacimiento_fecha":"1981-08-27",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mirta Karina",
+      "codigo":"BAJA2012",
+      "telefono":"15401412",
+      "email":"karinatdf@hotmail.com",
+      "domicilio":"Torelli 1011"
+    }
+  },
+  {
+    "pk":36,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-14",
+      "apellido":"RICALDES",
+      "documento_numero":"30566287",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1984-09-18",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"ee",
+      "codigo":"ODONT",
+      "telefono":"15403182",
+      "email":"",
+      "domicilio":"Felipe Varela 173"
+    }
+  },
+  {
+    "pk":37,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"CRUZ",
+      "documento_numero":"31242068",
+      "nacimiento_ciudad":"Jose C Paz",
+      "nacimiento_fecha":"1984-10-15",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Roxana Elizabeth",
+      "codigo":"BAJA2012",
+      "telefono":"421634",
+      "email":"rox2008@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":38,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"AVALOS",
+      "documento_numero":"37169109",
+      "nacimiento_ciudad":"Resistencia",
+      "nacimiento_fecha":"1993-03-21",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Daniela Elizabeth",
+      "codigo":"ODONT",
+      "telefono":"435549",
+      "email":"",
+      "domicilio":"Don Bosco 549"
+    }
+  },
+  {
+    "pk":39,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"MAMANI",
+      "documento_numero":"30032636",
+      "nacimiento_ciudad":"Mina Pirquitas",
+      "nacimiento_fecha":"1983-01-06",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Lidia Del Valle",
+      "codigo":"BAJA2012",
+      "telefono":"15491844",
+      "email":"",
+      "domicilio":"Kuanip y Polidoro Seguers"
+    }
+  },
+  {
+    "pk":40,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-15",
+      "apellido":"CASTRO",
+      "documento_numero":"29223194",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1982-03-12",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Antonia Viviana",
+      "codigo":"ENFERMERIA",
+      "telefono":"15403583",
+      "email":"",
+      "domicilio":"Soldado Aguila 2463"
+    }
+  },
+  {
+    "pk":41,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":null,
+      "apellido":"HUMANA",
+      "documento_numero":"27454059",
+      "nacimiento_ciudad":"Ush",
+      "nacimiento_fecha":"1998-06-21",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Salta",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Laura Isabel",
+      "codigo":"ODONT",
+      "telefono":"15605636",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":42,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-11",
+      "apellido":"FIORITO",
+      "documento_numero":"23313441",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1973-06-15",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Elisabeth Haydee",
+      "codigo":"MANTENIM.",
+      "telefono":"440623",
+      "email":"liza_736@hotmail.com",
+      "domicilio":"Lucas Bridge 792"
+    }
+  },
+  {
+    "pk":43,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-12-11",
+      "apellido":"ARROYO",
+      "documento_numero":"13704288",
+      "nacimiento_ciudad":"Cap. Fed.",
+      "nacimiento_fecha":"1960-03-20",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Jose Luis",
+      "codigo":"BAJA2012",
+      "telefono":"4307051",
+      "email":"joseluisarroyo@ciudad.com",
+      "domicilio":"640 Viv. Ed 8 \\\"b\\\" 3er.piso"
+    }
+  },
+  {
+    "pk":44,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-11",
+      "apellido":"MASSA",
+      "documento_numero":"21438514",
+      "nacimiento_ciudad":"",
+      "nacimiento_fecha":"1969-11-23",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Oscar Daniel",
+      "codigo":"BAJA2012",
+      "telefono":"15605980",
+      "email":"coyotte_bandido@yahoo.com.ar",
+      "domicilio":"Soldado Aguila 2681"
+    }
+  },
+  {
+    "pk":45,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":null,
+      "apellido":"ONTIVERO",
+      "documento_numero":"33585894",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1988-06-21",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Salta",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Adriana Evangelina",
+      "codigo":"BAJA2012",
+      "telefono":"15605636",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":46,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"LAMAS",
+      "documento_numero":"36979827",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-05-30",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Salta",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Cintia Mabel",
+      "codigo":"ENFERMERIA",
+      "telefono":"15479594",
+      "email":"",
+      "domicilio":"Ruiz  Galan 610"
+    }
+  },
+  {
+    "pk":47,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"LAMAS",
+      "documento_numero":"28995680",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1982-11-20",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Ana Cecilia",
+      "codigo":"ENFERMERIA",
+      "telefono":"15489466",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":48,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"ALMARAZ",
+      "documento_numero":"27276985",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1979-12-07",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"15605253",
+      "email":"",
+      "domicilio":"Ceferino Namuncura"
+    }
+  },
+  {
+    "pk":49,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"PAZ",
+      "documento_numero":"36452790",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-01-21",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"15608510",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":50,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"VARGAS",
+      "documento_numero":"34978709",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1990-01-01",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mariana Soledad",
+      "codigo":"ENFERMERIA",
+      "telefono":"15526956",
+      "email":"",
+      "domicilio":"2 de Abril 1768"
+    }
+  },
+  {
+    "pk":51,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"VELAZQUEZ",
+      "documento_numero":"27641074",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1980-03-01",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Adriana",
+      "codigo":"ENFERMERIA",
+      "telefono":"15402409",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":52,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"TOLABA",
+      "documento_numero":"30420964",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1983-12-27",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Lorena Cecilia Del Valle",
+      "codigo":"ENFERMERIA",
+      "telefono":"15544671",
+      "email":"",
+      "domicilio":"Tehuelches 1370"
+    }
+  },
+  {
+    "pk":53,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"JUAN LUCANA",
+      "documento_numero":"25091122",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1975-12-07",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Mendoza",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Leonardo Fabio",
+      "codigo":"ENFERMERIA",
+      "telefono":"15494351",
+      "email":"",
+      "domicilio":"Akainik 863"
+    }
+  },
+  {
+    "pk":54,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":null,
+      "apellido":"FERREYRA MOLINA",
+      "documento_numero":"30406577",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1983-09-01",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Corrientes",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Claudia Mariel",
+      "codigo":"ODONT",
+      "telefono":"15519738",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":55,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"AVILA",
+      "documento_numero":"37533051",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1993-04-11",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Torrico Caren Mariela",
+      "codigo":"ENFERMERIA",
+      "telefono":"422931",
+      "email":"",
+      "domicilio":"Beauvoir 2458"
+    }
+  },
+  {
+    "pk":56,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"g",
+      "documento_numero":"29445211",
+      "nacimiento_ciudad":"San Martin",
+      "nacimiento_fecha":"1982-05-20",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Miguel Mauricio",
+      "codigo":"BAJA2012",
+      "telefono":"421585",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":58,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"GON",
+      "documento_numero":"31094374",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1984-08-29",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Marta Yamila",
+      "codigo":"ENFERMERIA",
+      "telefono":"15504140",
+      "email":"",
+      "domicilio":"Valle de Andorra Par. 47 B"
+    }
+  },
+  {
+    "pk":60,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-12-07",
+      "apellido":"ALMONACID",
+      "documento_numero":"37533427",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1993-08-14",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Andrea",
+      "codigo":"GHOTELERA",
+      "telefono":"445400",
+      "email":"",
+      "domicilio":"Mar de Oses 3890"
+    }
+  },
+  {
+    "pk":61,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-11-07",
+      "apellido":"MARTINEZ",
+      "documento_numero":"30048660",
+      "nacimiento_ciudad":"Rosario",
+      "nacimiento_fecha":"1983-04-15",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Santa Fe",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Carina Vanesa",
+      "codigo":"GHOTELERA",
+      "telefono":"15544693",
+      "email":"carina.vanesa@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":62,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"TOLABA",
+      "documento_numero":"36532087",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-02-12",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Capital Federal",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Jeanette Eliana",
+      "codigo":"ENFERMERIA",
+      "telefono":"445575",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":64,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2011-12-07",
+      "apellido":"MALDONADO BARRIENTOS",
+      "documento_numero":"34483797",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1989-06-27",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Zarina Solange",
+      "codigo":"GHOTELERA",
+      "telefono":"15566915",
+      "email":"zarina_dy@hotmail.com",
+      "domicilio":"300 Viv. Tira 17 Dpto.5"
+    }
+  },
+  {
+    "pk":68,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"QUISPE",
+      "documento_numero":"24510160",
+      "nacimiento_ciudad":"La Mendieta",
+      "nacimiento_fecha":"1976-09-11",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"423632",
+      "email":"",
+      "domicilio":"Akainik 767"
+    }
+  },
+  {
+    "pk":69,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"VERA OYARZO",
+      "documento_numero":"18747827",
+      "nacimiento_ciudad":"Llanquihue",
+      "nacimiento_fecha":"1970-10-08",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chile",
+      "nacimiento_pais":"Chile",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Cecilia Janet",
+      "codigo":"ENFERMERIA",
+      "telefono":"445867 - 422731",
+      "email":"",
+      "domicilio":"Yamanas 955"
+    }
+  },
+  {
+    "pk":70,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"GREGORIO",
+      "documento_numero":"24612272",
+      "nacimiento_ciudad":"San Salvador de Jujuy",
+      "nacimiento_fecha":"1975-07-19",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mirta Alejandra",
+      "codigo":"ENFERMERIA",
+      "telefono":"423081",
+      "email":"",
+      "domicilio":"Rio Grande 66"
+    }
+  },
+  {
+    "pk":71,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"VILLARROEL GUERRA",
+      "documento_numero":"31473252",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1985-09-16",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Edith Viviana",
+      "codigo":"ENFERMERIA",
+      "telefono":"15618820",
+      "email":"vivi_villarroel_g@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":74,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"JANCO",
+      "documento_numero":"27453770",
+      "nacimiento_ciudad":"Mendo",
+      "nacimiento_fecha":"1980-02-06",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Mendoza",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Juana Carmen",
+      "codigo":"ENFERMERIA",
+      "telefono":"15528915",
+      "email":"juanajanco@hotmail.com",
+      "domicilio":"Akainik 863"
+    }
+  },
+  {
+    "pk":75,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"VALERO",
+      "documento_numero":"31577753",
+      "nacimiento_ciudad":"Palpala",
+      "nacimiento_fecha":"1985-05-22",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Natalia",
+      "codigo":"ENFERMERIA",
+      "telefono":"15484511",
+      "email":"nataly - callejera@hotmail.com",
+      "domicilio":"Alakush 2135 Los Morros"
+    }
+  },
+  {
+    "pk":76,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"HERNANDEZ",
+      "documento_numero":"37908726",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1994-02-06",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Micaela Constanza",
+      "codigo":"ENFERMERIA",
+      "telefono":"423140",
+      "email":"mika-hz-140@hotmail.com",
+      "domicilio":"Bouchard 560"
+    }
+  },
+  {
+    "pk":77,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"MORALES",
+      "documento_numero":"36202944",
+      "nacimiento_ciudad":"Formosa",
+      "nacimiento_fecha":"1991-07-19",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Formosa",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Maira Alejandra",
+      "codigo":"ENFERMERIA",
+      "telefono":"418758",
+      "email":"maira91ush@hotmail.com",
+      "domicilio":"Campos 707"
+    }
+  },
+  {
+    "pk":79,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"ZACARIAS",
+      "documento_numero":"36369271",
+      "nacimiento_ciudad":"Resistencia",
+      "nacimiento_fecha":"1991-08-16",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Anabel Elautaria",
+      "codigo":"ENFERMERIA",
+      "telefono":"15489054",
+      "email":"ana-zaca@live.com.ar",
+      "domicilio":"Kuanip 1724"
+    }
+  },
+  {
+    "pk":80,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"OYARZO",
+      "documento_numero":"26951998",
+      "nacimiento_ciudad":"San Carlos de Bariloche",
+      "nacimiento_fecha":"1979-01-24",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Rio Negro",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Claudia Elizabeth",
+      "codigo":"ENFERMERIA",
+      "telefono":"15475590",
+      "email":"kiav30@hotmail.com",
+      "domicilio":"Constitucion Fueguina"
+    }
+  },
+  {
+    "pk":81,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"GRIMALDO",
+      "documento_numero":"33232617",
+      "nacimiento_ciudad":"Jujuy",
+      "nacimiento_fecha":"1987-09-16",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Gabriela Patricia",
+      "codigo":"ENFERMERIA",
+      "telefono":"15533617",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":82,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"MERCADO",
+      "documento_numero":"29136800",
+      "nacimiento_ciudad":"Cordoba",
+      "nacimiento_fecha":"1981-10-06",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Cordoba",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"15484893",
+      "email":"aleco-@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":83,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"AGUILERA BIANCO",
+      "documento_numero":"37174069",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-12-15",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"432088",
+      "email":"",
+      "domicilio":"Cipriano Reyes 2714"
+    }
+  },
+  {
+    "pk":84,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-03-02",
+      "apellido":"WORTLEY",
+      "documento_numero":"36734124",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1992-06-12",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Marianela",
+      "codigo":"COMUSOCIAL",
+      "telefono":"15489328",
+      "email":"morocha-del-sur@hotmail.com",
+      "domicilio":"640 Viv. T 7 \\\"a\\\"-p.b.c"
+    }
+  },
+  {
+    "pk":85,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"CARO",
+      "documento_numero":"17914474",
+      "nacimiento_ciudad":"El Tabacal",
+      "nacimiento_fecha":"1967-04-08",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Salta",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Reinaldo Roque",
+      "codigo":"ENFERMERIA",
+      "telefono":"15497589",
+      "email":"evelinarizmendi@hotmail.com",
+      "domicilio":"Pastor Lawrence 907"
+    }
+  },
+  {
+    "pk":86,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"RICALDE",
+      "documento_numero":"31897816",
+      "nacimiento_ciudad":"Pozo de Mortero",
+      "nacimiento_fecha":"1986-06-04",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Formosa",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"528751 - 421146",
+      "email":"fabuformosa@hotmail.com",
+      "domicilio":"La Pampa 4096"
+    }
+  },
+  {
+    "pk":88,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"CAICEDO",
+      "documento_numero":"32909945",
+      "nacimiento_ciudad":"San Martin",
+      "nacimiento_fecha":"1987-10-09",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Mendoza",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Matias Emmanauel",
+      "codigo":"ENFERMERIA",
+      "telefono":"15443169",
+      "email":"",
+      "domicilio":"Yaganes y San Martin"
+    }
+  },
+  {
+    "pk":89,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"CANTERO",
+      "documento_numero":"33229760",
+      "nacimiento_ciudad":"Villa Angela",
+      "nacimiento_fecha":"1987-09-16",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Zunilda Emilse",
+      "codigo":"ENFERMERIA",
+      "telefono":"15491059",
+      "email":"zuny-canteros08@hotmail.com",
+      "domicilio":"Gobernador Paz 2036"
+    }
+  },
+  {
+    "pk":90,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"CANO",
+      "documento_numero":"13597706",
+      "nacimiento_ciudad":"Capital Federal",
+      "nacimiento_fecha":"1960-01-03",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Sara",
+      "codigo":"ENFERMERIA",
+      "telefono":"15613804",
+      "email":"",
+      "domicilio":"Austral 2329"
+    }
+  },
+  {
+    "pk":91,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"FLORES SANTA CRUZ",
+      "documento_numero":"18839614",
+      "nacimiento_ciudad":"Santa Cruz de La Sierra",
+      "nacimiento_fecha":"1978-08-02",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"",
+      "nacimiento_pais":"Bolivia",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Raquel",
+      "codigo":"ENFERMERIA",
+      "telefono":"425160",
+      "email":"raquelitasantacruz@hotmail.com",
+      "domicilio":"Anuka 2055"
+    }
+  },
+  {
+    "pk":92,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"BOGADO",
+      "documento_numero":"21866942",
+      "nacimiento_ciudad":"Las Palmas",
+      "nacimiento_fecha":"1971-03-01",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Albina Viviana",
+      "codigo":"ENFERMERIA",
+      "telefono":"430541 - 423584",
+      "email":"omarmilagrodaia@hotmail.com",
+      "domicilio":"Gente Del Sur 864 Dto   2"
+    }
+  },
+  {
+    "pk":94,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"LEON",
+      "documento_numero":"29927611",
+      "nacimiento_ciudad":"Capital Federal",
+      "nacimiento_fecha":"1982-11-26",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Claudia Vanesa",
+      "codigo":"ENFERMERIA",
+      "telefono":"15494734",
+      "email":"vanel2611@hotmail.com",
+      "domicilio":"1 de Mayo 224"
+    }
+  },
+  {
+    "pk":96,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"TEJERINA",
+      "documento_numero":"29629104",
+      "nacimiento_ciudad":"Dr. Manuel Belgrano",
+      "nacimiento_fecha":"1982-08-08",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"San Salvador de Jujy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Lidia Marcela",
+      "codigo":"ENFERMERIA",
+      "telefono":"15495696",
+      "email":"ledy_08@hotmail.com",
+      "domicilio":"96 Viviendas Tira 5 - Piso B"
+    }
+  },
+  {
+    "pk":97,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"GUZMAN",
+      "documento_numero":"26988743",
+      "nacimiento_ciudad":"Jujuy",
+      "nacimiento_fecha":"1979-01-09",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Monica Gisela",
+      "codigo":"ENFERMERIA",
+      "telefono":"434227",
+      "email":"",
+      "domicilio":"Avda Alem 2654"
+    }
+  },
+  {
+    "pk":98,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"FERREYRA",
+      "documento_numero":"40273528",
+      "nacimiento_ciudad":"Tucuman",
+      "nacimiento_fecha":"1990-10-10",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tucuman",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Rita Jane",
+      "codigo":"ENFERMERIA",
+      "telefono":"15530603",
+      "email":"pukytucu@hotmail.com",
+      "domicilio":"Leun 2001"
+    }
+  },
+  {
+    "pk":99,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"RAMIREZ",
+      "documento_numero":"35859573",
+      "nacimiento_ciudad":"La Verde",
+      "nacimiento_fecha":"1991-08-17",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Chaco",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Miriam Andrea",
+      "codigo":"ENFERMERIA",
+      "telefono":"503370",
+      "email":"",
+      "domicilio":"Kuanip 1390"
+    }
+  },
+  {
+    "pk":100,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"PUFAHL",
+      "documento_numero":"32607969",
+      "nacimiento_ciudad":"El Dorado",
+      "nacimiento_fecha":"1987-04-08",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Misiones",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Jony Antonio",
+      "codigo":"ENFERMERIA",
+      "telefono":"15524539",
+      "email":"jonysick@hotmail.com",
+      "domicilio":"Agente Matias Silcha"
+    }
+  },
+  {
+    "pk":101,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"VACA",
+      "documento_numero":"30175786",
+      "nacimiento_ciudad":"Metan",
+      "nacimiento_fecha":"1983-03-18",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Salta",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Mariana Griselda",
+      "codigo":"ENFERMERIA",
+      "telefono":"15495164",
+      "email":"",
+      "domicilio":"Trejo Noel 1191"
+    }
+  },
+  {
+    "pk":102,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"PUSINO",
+      "documento_numero":"27331493",
+      "nacimiento_ciudad":"Bahia Blanca",
+      "nacimiento_fecha":"1979-05-15",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Buenos Aires",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Javier Gonzalo",
+      "codigo":"ENFERMERIA",
+      "telefono":"436690",
+      "email":"jpusino@hotmail.com",
+      "domicilio":"Bahia Brown 4225"
+    }
+  },
+  {
+    "pk":103,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"MONTEGROSSO",
+      "documento_numero":"38075222",
+      "nacimiento_ciudad":"San Juan",
+      "nacimiento_fecha":"1994-03-18",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"San Juan",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"e",
+      "codigo":"ENFERMERIA",
+      "telefono":"444756",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":105,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"PINCOL",
+      "documento_numero":"13013179",
+      "nacimiento_ciudad":"Ushuaia",
+      "nacimiento_fecha":"1959-05-22",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Tierra Del Fuego",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Graciela",
+      "codigo":"ENFERMERIA",
+      "telefono":"15502389",
+      "email":"",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":106,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"JURADO",
+      "documento_numero":"24810024",
+      "nacimiento_ciudad":"Ledesma",
+      "nacimiento_fecha":"1975-08-13",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Jujuy",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Gladys Mabel",
+      "codigo":"ENFERMERIA",
+      "telefono":"15504968",
+      "email":"mabyg2011@hotmail.com",
+      "domicilio":""
+    }
+  },
+  {
+    "pk":107,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"FLORES",
+      "documento_numero":"20247958",
+      "nacimiento_ciudad":"Salta",
+      "nacimiento_fecha":"1968-06-05",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Salta",
+      "nacimiento_pais":"Argentina",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Elizabeth",
+      "codigo":"ENFERMERIA",
+      "telefono":"15413069",
+      "email":"",
+      "domicilio":"Beauvoir 2112"
+    }
+  },
+  {
+    "pk":108,
+    "model":"academica.persona",
+    "fields":{
+      "foto":"",
+      "titulo_secundario":"",
+      "fecha_alta":"2012-02-01",
+      "apellido":"OJEDA CAQUI",
+      "documento_numero":"94634642",
+      "nacimiento_ciudad":"Lima",
+      "nacimiento_fecha":"1992-11-18",
+      "sexo":"M",
+      "fecha_baja":null,
+      "documento_tipo":1,
+      "nacimiento_provincia":"Peru",
+      "nacimiento_pais":"Peru",
+      "roles":[
+
+      ],
+      "observacion":null,
+      "nombre":"Juan Christian",
+      "codigo":"ENFERMERIA",
+      "telefono":"15584220",
+      "email":"christian-arcangel-dark@hotmail.com",
+      "domicilio":"Santa Cruz 91"
+    }
+  }
+]
