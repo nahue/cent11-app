@@ -20,12 +20,12 @@ class Titulo(models.Model):
   nivel = models.IntegerField(max_length=1, choices=NIVEL, default=0)
 
 class Carrera(models.Model):
-  nombre = models.CharField(max_length = 30, default='')
-  nombre_corto = models.CharField(max_length=10, default='')
+  nombre = models.CharField(max_length = 200, default='')
+  nombre_corto = models.CharField(max_length=100, default='')
   codigo = models.CharField(max_length = 10, default='',unique=True)
-  fecha_desde = models.DateField(null=True)
-  fecha_hasta = models.DateField(null=True)
-  resolucion_plan = models.CharField(max_length=30, default='')
+  fecha_desde = models.DateField(null=True, blank=True)
+  fecha_hasta = models.DateField(null=True, blank=True)
+  resolucion_plan = models.CharField(max_length=30, default='', blank=True)
 
   def __str__(self):
     return self.nombre + ' [' + self.codigo + ']'
