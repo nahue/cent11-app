@@ -1,17 +1,12 @@
-.has-hidden-field { 
-
-  display: none;
-}
-
 #id_roles {
 	list-style: none;
 	margin-left: 0;
 }
 
-#add_id_roles {
+#add_id_roles, #add_id_documento_tipo {
 	display: none;
 }
 
 .has-hidden-field {
-	display:none;
+	display: none !important;
 }

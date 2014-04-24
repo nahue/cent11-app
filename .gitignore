@@ -57,3 +57,4 @@ dev/cent11/media/imagenes/*
 .idea/cent11.iml
 *.pyc
 *.iml
+imagenes/*
