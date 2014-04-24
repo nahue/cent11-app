@@ -31,18 +31,20 @@ class PersonaForm(forms.ModelForm):
     self.instance_id = None
     super(PersonaForm, self).__init__(*args, **kwargs)
     #self.fields['name'].required = False
+    #self.fields['roles'].widget = forms.CheckboxSelectMultiple()
 
     if kwargs.has_key('instance'):
         instance = kwargs['instance']
 
         self.fields['materias'].widget.setinstance(instance)
+
         if self.fields['materias'].widget.choices.count() == 0:
           self.fields['materias'].widget = forms.HiddenInput()
         #self.instance_id = instance.id
         # do something with the instance here if you want
 
   materias = forms.ChoiceField(choices=[],
-    widget=MateriasWidget)
+    widget=MateriasWidget, required=False)
 
   class Meta:
     widgets = {

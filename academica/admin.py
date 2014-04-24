@@ -1,19 +1,23 @@
 from django.contrib import admin
 from models import Titulo, Carrera, Materia, Documento, Persona, Rol
 from .forms import PersonaForm
+from django import forms
 
 class PersonaAdmin(admin.ModelAdmin):
   form = PersonaForm
   fieldsets = (
     ('Datos Personales', {
-      'fields': ('roles',
+      'fields': (
+                 ('documento_tipo','documento_numero'),
+                 ('apellido','nombre'),
+                 'codigo',
+                 'roles',
                  'titulos',
                  'materias',
-                 'codigo',
-                 ('nombre',
-                 'apellido'),
-                 'documento_tipo',
-                 'documento_numero',
+                 
+                 
+                 
+                 
                  'sexo',
                  'nacimiento_fecha',
                  'nacimiento_pais',
@@ -31,11 +35,18 @@ class PersonaAdmin(admin.ModelAdmin):
       'fields': ('email','domicilio','telefono')
     })
   )
-  list_display = ('apellido','nombre','documento_numero')
+  list_display = ('documento_numero','apellido','nombre','fecha_alta','nacimiento_fecha')
   list_filter = ('roles','documento_tipo','nacimiento_pais','sexo')
   search_fields = ['apellido','nombre','documento_numero']
-  filter_horizontal = ('roles','titulos')
+  filter_horizontal = ('titulos',)
   radio_fields = {'sexo': admin.HORIZONTAL}
+
+  def formfield_for_manytomany(self, db_field, request=None, **kwargs):
+    if db_field.name == 'roles':
+        kwargs['widget'] = forms.CheckboxSelectMultiple
+        kwargs['help_text'] = ''
+
+    return db_field.formfield(**kwargs)
 
   class Media:
     css = {

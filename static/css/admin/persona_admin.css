@@ -2,3 +2,16 @@
 
   display: none;
 }
+
+#id_roles {
+	list-style: none;
+	margin-left: 0;
+}
+
+#add_id_roles {
+	display: none;
+}
+
+.has-hidden-field {
+	display:none;
+}

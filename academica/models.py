@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from django.db import models
 from django.utils.translation import ugettext as _
 
@@ -51,11 +53,11 @@ class Persona(models.Model):
     ('M', 'Masculino'),
     ('F', 'Femenino')
   )
-  codigo = models.CharField(max_length = 10, default='')
+  codigo = models.CharField(max_length = 10, default='',blank=True)
   nombre = models.CharField(max_length = 30, default='')
   apellido = models.CharField(max_length = 30, default='')
   documento_tipo = models.ForeignKey(Documento)
-  documento_numero = models.CharField(max_length=15)
+  documento_numero = models.CharField(max_length=15,verbose_name="Nro Documento")
   nacimiento_fecha = models.DateField(_('nacimiento_fecha'))
   nacimiento_pais = models.CharField(_('nacimiento_pais'),max_length=30,blank=True)
   nacimiento_provincia = models.CharField(_('nacimiento_provincia'),max_length=30,blank=True)
@@ -70,7 +72,7 @@ class Persona(models.Model):
   observacion = models.TextField(blank=True, null=True)
   foto = models.ImageField(upload_to = 'imagenes/alumnos/', default = 'imagenes/default/alumnos/alumno_default.jpg',blank=True)
   roles = models.ManyToManyField(Rol)
-  titulos = models.ManyToManyField(Titulo)
+  titulos = models.ManyToManyField(Titulo, blank=True)
 
   def nombre_completo(self):
     return self.nombre + ' ' + self.apellido
@@ -90,7 +92,7 @@ class Materia(models.Model):
   codigo = models.CharField(max_length = 10, default='', unique=True)
   duracion = models.IntegerField(choices=MATERIA_DURACION,default=0)
   horas_catedra = models.IntegerField(default=0)
-  anio = models.IntegerField(default=0)
+  anio = models.IntegerField(default=0, verbose_name="Año")
   cursadas_para_cursar = models.CharField(max_length = 30, default='', blank=True)
   aprobadas_para_cursar = models.CharField(max_length = 30, default='', blank=True)
   cursadas_para_rendir = models.CharField(max_length = 30, default='', blank=True)

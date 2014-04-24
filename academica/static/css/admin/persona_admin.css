@@ -1,4 +1,12 @@
-.has-hidden-field { 
+#id_roles {
+	list-style: none;
+	margin-left: 0;
+}
 
-  display: none;
+#add_id_roles {
+	display: none;
+}
+
+.has-hidden-field {
+	display: none !important;
 }
