@@ -185,7 +185,7 @@ TEMPLATE_CONTEXT_PROCESSORS = TCP + (
 
 ENV = os.environ.get('ENV', None)
 
-if ENV == 'development' or ENV == None:
+if ENV == 'development' or ENV is None:
     IS_DEVELOPMENT = True
     from configs.dev import *
 
